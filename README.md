@@ -1,10 +1,10 @@
-# Available .CX One-Word Domains (8,310)
+# Available .CX One-Word Domains (8,315)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C315%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C310%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C318%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C315%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .cx one-word domains from Unique D
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,315 rows · **Live catalog:** 8,310 domains
+**Public extract:** 8,318 rows · **Live catalog:** 8,315 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/cx`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CX one-word domain ca
 
 ### Files
 
-- `cx.csv` — public CSV extract (8,315 rows)
-- `cx.json` — public JSON extract (8,315 rows)
+- `cx.csv` — public CSV extract (8,318 rows)
+- `cx.json` — public JSON extract (8,318 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -73,10 +73,10 @@ print(df.head())
 | athletics.cx  | available | $26.98    | —             | 69             | 52     | 9      | namecheap                     |
 | japan.cx      | resell    | —         | —             | 105            | 98     | 5      | West263 International Limited |
 | bored.cx      | premium   | —         | —             | 68             | 99     | 5      | —                             |
-| shared.cx     | available | $26.98    | —             | 70             | 39     | 6      | namecheap                     |
+| event.cx      | available | $26.98    | —             | 96             | 37     | 5      | namecheap                     |
 | canada.cx     | resell    | —         | —             | 83             | 98     | 6      | West263 International Limited |
 | bass.cx       | premium   | —         | —             | 64             | 99     | 4      | —                             |
-| event.cx      | available | $26.98    | —             | 96             | 37     | 5      | namecheap                     |
+| shared.cx     | available | $26.98    | —             | 70             | 37     | 6      | namecheap                     |
 | android.cx    | resell    | —         | —             | 78             | 95     | 7      | West263 International Limited |
 | american.cx   | premium   | —         | —             | 98             | 98     | 8      | —                             |
 | streaming.cx  | available | $26.98    | —             | 88             | 35     | 9      | namecheap                     |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,315-row public sample | 8,310 live domains                               |
+| 8,318-row public sample | 8,315 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CX One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CX One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
