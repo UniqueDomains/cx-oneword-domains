@@ -1,22 +1,22 @@
-# Available .CX One-Word Domains (8,315)
+# Available .CX One-Word Domains (10,530)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C318%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C315%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C530%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .cx one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .cx one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,530 domains** on the canonical page below.
 
-**Public extract:** 8,318 rows · **Live catalog:** 8,315 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,530 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/cx`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CX one-word domain ca
 
 ### Files
 
-- `cx.csv` — public CSV extract (8,318 rows)
-- `cx.json` — public JSON extract (8,318 rows)
+- `cx.csv` — public CSV extract (1,000 rows)
+- `cx.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| waste.cx      | available | $26.98    | —             | 104            | 98     | 5      | namecheap                     |
-| superstar.cx  | resell    | $26.98    | —             | 80             | 24     | 9      | CentralNic Ltd                |
-| allied.cx     | premium   | $26.98    | —             | 74             | 23     | 6      | namecheap                     |
-| nationwide.cx | available | $26.98    | —             | 76             | 66     | 10     | namecheap                     |
-| load.cx       | resell    | $26.98    | —             | 78             | 24     | 4      | CentralNic Ltd                |
-| fork.cx       | premium   | —         | —             | 94             | 99     | 4      | —                             |
-| athletics.cx  | available | $26.98    | —             | 69             | 52     | 9      | namecheap                     |
-| japan.cx      | resell    | —         | —             | 105            | 98     | 5      | West263 International Limited |
-| bored.cx      | premium   | —         | —             | 68             | 99     | 5      | —                             |
-| event.cx      | available | $26.98    | —             | 96             | 37     | 5      | namecheap                     |
-| canada.cx     | resell    | —         | —             | 83             | 98     | 6      | West263 International Limited |
-| bass.cx       | premium   | —         | —             | 64             | 99     | 4      | —                             |
-| shared.cx     | available | $26.98    | —             | 70             | 37     | 6      | namecheap                     |
-| android.cx    | resell    | —         | —             | 78             | 95     | 7      | West263 International Limited |
-| american.cx   | premium   | —         | —             | 98             | 98     | 8      | —                             |
-| streaming.cx  | available | $26.98    | —             | 88             | 35     | 9      | namecheap                     |
-| apple.cx      | resell    | —         | —             | 98             | 88     | 5      | West263 International Limited |
-| comic.cx      | premium   | —         | —             | 97             | 98     | 5      | —                             |
-| lovely.cx     | available | $26.98    | —             | 72             | 32     | 6      | namecheap                     |
-| orange.cx     | resell    | —         | —             | 74             | 83     | 6      | West263 International Limited |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| travelers.cx   | available | $18.99    | $18.99        | 58             | 61     | 9      | namesilo                      |
+| insight.cx     | resell    | —         | —             | 76             | 69     | 8      | West263 International Limited |
+| regions.cx     | available | $26.98    | —             | 64             | 59     | 7      | namecheap                     |
+| online.cx      | resell    | —         | —             | 70             | 62     | 7      | West263 International Limited |
+| ideas.cx       | available | $26.98    | —             | 62             | 37     | 5      | namecheap                     |
+| agents.cx      | resell    | —         | —             | 56             | 50     | 6      | CentralNic Ltd                |
+| letsgo.cx      | available | $26.98    | —             | 57             | 31     | 7      | namecheap                     |
+| mega.cx        | resell    | —         | —             | 74             | 43     | 4      | West263 International Limited |
+| inspiration.cx | available | $26.98    | —             | 88             | 30     | 11     | namecheap                     |
+| call.cx        | resell    | —         | —             | 80             | 36     | 4      | CentralNic Ltd                |
+| spaces.cx      | available | $26.98    | —             | 54             | 30     | 6      | namecheap                     |
+| tokens.cx      | resell    | —         | —             | 51             | 36     | 6      | CentralNic Ltd                |
+| trades.cx      | available | $79.99    | —             | 71             | 26     | 6      | name.com                      |
+| tickets.cx     | resell    | —         | —             | 64             | 34     | 7      | CentralNic Ltd                |
+| doctors.cx     | available | $79.99    | —             | 56             | 26     | 7      | name.com                      |
+| BlackFriday.cx | resell    | —         | —             | 74             | 29     | 12     | CentralNic Ltd                |
+| schools.cx     | available | $26.98    | —             | 72             | 24     | 7      | namecheap                     |
+| traders.cx     | resell    | —         | —             | 60             | 26     | 7      | CentralNic Ltd                |
+| shops.cx       | available | $79.99    | —             | 64             | 24     | 5      | name.com                      |
+| loans.cx       | resell    | —         | —             | 58             | 24     | 5      | CentralNic Ltd                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,318-row public sample | 8,315 live domains                               |
+| 1,000-row public sample | 10,530 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CX One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CX One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
