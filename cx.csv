@@ -218,6 +218,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 12981b45-306e-4d05-b1bc-50a133771b2c,buttercups.cx,available,26.98,,68,4,10,namecheap,,
 129a6262-14db-430b-9b68-ae6f1ae8a4e0,writes.cx,available,26.98,,56,9,6,namecheap,,
 129c59a6-48d8-4677-a81b-96db91a7913d,deepfried.cx,available,26.98,,74,6,10,namecheap,,
+12afd402-cfaf-4b63-8038-3e95cca72f07,IDK.cx,available,18.99,18.99,56,21,3,namesilo,,
 12ca214a-f243-46fc-ae25-0cfa6daa4077,dowithout.cx,available,26.98,,68,1,10,namecheap,,
 12e9a852-c2aa-4398-b423-a013c30d11af,texts.cx,available,79.99,,52,13,5,name.com,,
 12e9e4ee-05cc-4211-85b4-84af87e20e13,promotions.cx,available,18.99,18.99,64,14,10,namesilo,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 55ebb426-fe18-494f-8459-4d041927ffbd,HighRenaissance.cx,available,18.99,18.99,64,1,16,namesilo,,
 5603b7df-08f7-4ad5-9f55-3382e13cc71a,segregation.cx,available,26.98,,62,2,11,namecheap,,
 56071596-e9e6-4e9b-b437-3cafa7ff4a2a,gofast.cx,available,26.98,,74,15,7,namecheap,,
-561d7d43-ed45-4898-8285-f130b570e088,wanttobet.cx,available,26.98,,62,1,11,namecheap,,
