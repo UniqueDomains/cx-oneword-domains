@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cx one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,135 domains · **Median ask:** $31.21 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/cx`  
 **Best for:** founders, investors, studios
 
@@ -68,12 +68,12 @@ print(df.head())
 | online.cx       | resell    | —         | —             | 70             | 62     | 7      | West263 International Limited |
 | letsgo.cx       | available | $26.98    | —             | 57             | 31     | 7      | namecheap                     |
 | agents.cx       | resell    | —         | —             | 56             | 50     | 6      | CentralNic Ltd                |
-| inspiration.cx  | available | $26.98    | —             | 88             | 30     | 11     | namecheap                     |
-| call.cx         | resell    | —         | —             | 80             | 37     | 4      | CentralNic Ltd                |
 | rewards.cx      | available | $18.99    | $18.99        | 62             | 30     | 7      | namesilo                      |
-| tickets.cx      | resell    | —         | —             | 64             | 34     | 7      | CentralNic Ltd                |
+| call.cx         | resell    | —         | —             | 80             | 37     | 4      | CentralNic Ltd                |
 | spaces.cx       | available | $26.98    | —             | 54             | 30     | 6      | namecheap                     |
-| traders.cx      | resell    | —         | —             | 60             | 26     | 7      | CentralNic Ltd                |
+| tickets.cx      | resell    | —         | —             | 64             | 34     | 7      | CentralNic Ltd                |
+| inspiration.cx  | available | $26.98    | —             | 88             | 27     | 11     | namecheap                     |
+| traders.cx      | resell    | —         | —             | 60             | 25     | 7      | CentralNic Ltd                |
 | doctors.cx      | available | $79.99    | —             | 56             | 26     | 7      | name.com                      |
 | loans.cx        | resell    | —         | —             | 58             | 24     | 5      | CentralNic Ltd                |
 | schools.cx      | available | $26.98    | —             | 72             | 24     | 7      | namecheap                     |
@@ -81,9 +81,9 @@ print(df.head())
 | whats.cx        | available | $18.99    | $18.99        | 58             | 24     | 5      | namesilo                      |
 | echoes.cx       | available | $18.99    | $18.99        | 56             | 24     | 6      | namesilo                      |
 | superhero.cx    | available | $26.98    | —             | 84             | 23     | 9      | namecheap                     |
+| Places.cx       | available | $26.98    | —             | 74             | 23     | 6      | namecheap                     |
 | motorsport.cx   | available | $26.98    | —             | 74             | 23     | 10     | namecheap                     |
 | deeplearning.cx | available | $26.98    | —             | 74             | 23     | 13     | namecheap                     |
-| pros.cx         | available | $18.99    | $18.99        | 53             | 23     | 4      | namesilo                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CX One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CX One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
