@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .cx one-word domains from U
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,135 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,135 domains · **Median ask:** $31.21 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,135 domains · **Median ask:** $23.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/cx`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/cx`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CX one-word domain ca
 
 ### Files
 
-- `cx.csv` — public CSV extract (1,000 rows)
-- `cx.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `cx.csv`, public CSV extract (1,000 rows)
+- `cx.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| travelers.cx    | available | $18.99    | $18.99        | 58             | 61     | 9      | namesilo                      |
-| online.cx       | resell    | —         | —             | 70             | 62     | 7      | West263 International Limited |
-| letsgo.cx       | available | $26.98    | —             | 57             | 31     | 7      | namecheap                     |
-| agents.cx       | resell    | —         | —             | 56             | 50     | 6      | CentralNic Ltd                |
-| rewards.cx      | available | $18.99    | $18.99        | 62             | 30     | 7      | namesilo                      |
-| call.cx         | resell    | —         | —             | 80             | 37     | 4      | CentralNic Ltd                |
-| spaces.cx       | available | $26.98    | —             | 54             | 30     | 6      | namecheap                     |
-| tickets.cx      | resell    | —         | —             | 64             | 34     | 7      | CentralNic Ltd                |
-| inspiration.cx  | available | $26.98    | —             | 88             | 27     | 11     | namecheap                     |
-| traders.cx      | resell    | —         | —             | 60             | 25     | 7      | CentralNic Ltd                |
-| doctors.cx      | available | $79.99    | —             | 56             | 26     | 7      | name.com                      |
-| loans.cx        | resell    | —         | —             | 58             | 24     | 5      | CentralNic Ltd                |
-| schools.cx      | available | $26.98    | —             | 72             | 24     | 7      | namecheap                     |
-| shops.cx        | available | $79.99    | —             | 64             | 24     | 5      | name.com                      |
-| whats.cx        | available | $18.99    | $18.99        | 58             | 24     | 5      | namesilo                      |
-| echoes.cx       | available | $18.99    | $18.99        | 56             | 24     | 6      | namesilo                      |
-| superhero.cx    | available | $26.98    | —             | 84             | 23     | 9      | namecheap                     |
-| Places.cx       | available | $26.98    | —             | 74             | 23     | 6      | namecheap                     |
-| motorsport.cx   | available | $26.98    | —             | 74             | 23     | 10     | namecheap                     |
-| deeplearning.cx | available | $26.98    | —             | 74             | 23     | 13     | namecheap                     |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| ago.cx   | available | $18.99    | $18.99        | medium         | low    | 3      | namesilo                      |
+| load.cx  | resell    | $26.98    | —             | high           | low    | 4      | CentralNic Ltd                |
+| bce.cx   | premium   | $18.99    | $18.99        | medium         | low    | 3      | namesilo                      |
+| coy.cx   | available | $18.99    | $18.99        | medium         | low    | 3      | namesilo                      |
+| boost.cx | resell    | $26.98    | —             | high           | low    | 5      | CentralNic Ltd                |
+| boat.cx  | premium   | $18.99    | $18.99        | high           | low    | 4      | namesilo                      |
+| leg.cx   | available | $18.99    | $18.99        | high           | low    | 3      | namesilo                      |
+| air.cx   | resell    | —         | —             | high           | medium | 3      | CentralNic Ltd                |
+| tire.cx  | premium   | $18.99    | $18.99        | high           | low    | 4      | namesilo                      |
+| lip.cx   | available | $18.99    | $18.99        | high           | low    | 3      | namesilo                      |
+| ask.cx   | resell    | —         | —             | high           | medium | 3      | West263 International Limited |
+| wool.cx  | premium   | $18.99    | $18.99        | medium         | low    | 4      | namesilo                      |
+| mid.cx   | available | $26.98    | —             | high           | low    | 3      | namecheap                     |
+| hit.cx   | resell    | —         | —             | high           | low    | 3      | CentralNic Ltd                |
+| gates.cx | premium   | $18.99    | $18.99        | high           | low    | 5      | namesilo                      |
+| oar.cx   | available | $18.99    | $18.99        | medium         | low    | 3      | namesilo                      |
+| led.cx   | resell    | —         | —             | high           | low    | 3      | West263 International Limited |
+| wagon.cx | premium   | $18.99    | $18.99        | medium         | low    | 5      | namesilo                      |
+| sad.cx   | available | $26.98    | —             | high           | low    | 3      | namecheap                     |
+| lot.cx   | resell    | —         | —             | medium         | low    | 3      | CentralNic Ltd                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is focused entirely on one-word .cx domains. The names range from concise words like dozen.cx and swerve.cx to broader terms like effect.cx, trophy.cx, and examine.cx, plus longer options such as generaleducation.cx. For founders, the main question is whether the word is memorable, easy to say, and specific enough to anchor a brand without creating confusion. For investors, the key is price discipline: the median ask is 31.22, so quality differences matter more than headline pricing alone. When comparing these domains, weigh word clarity, commercial relevance, length, and the added adoption risk that can come with a non-mainstream extension like .cx.
+This selection includes 11,135 one-word .CX domain names, covering everyday terms, brand-style names, and niche phrases such as FinalFour.cx, ShopAround.cx, and HerbalTea.cx. With a median asking price near $24, most of these domains are priced for fast evaluation rather than long negotiation. Because .CX carries no industry restriction, the mix spans food, lifestyle, retail, and generic one-word concepts, giving both investors and founders a broad pool to compare before narrowing to a shortlist.
 
-- Favor strong, clear words over long or ambiguous terms
-- Use price discipline: median ask is 31.22
-- Short names like dozen.cx are easier to recall
-- Non-mainstream .cx adds adoption and resale risk
+- 11,135 one-word .CX domains available for comparison
+- Median asking price near $24 across the selection
+- Mix of brandable names, generic terms, and niche phrases
+- Updated daily to reflect current asking prices
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CX One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CX One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
