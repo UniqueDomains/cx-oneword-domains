@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cx one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,843 domains · **Median ask:** $23.01 · **High-demand under $2,500:** 35
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/cx`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| easy.cx   | resell    | —         | —             | high           | medium | 4      | West263 International Limited |
-| pardon.cx | available | $18.99    | $18.99        | high           | low    | 6      | namesilo                      |
-| front.cx  | resell    | —         | —             | high           | low    | 5      | CentralNic Ltd                |
-| ago.cx    | available | $18.99    | $18.99        | medium         | low    | 3      | namesilo                      |
-| load.cx   | resell    | $26.98    | —             | high           | low    | 4      | CentralNic Ltd                |
-| bce.cx    | premium   | $18.99    | $18.99        | medium         | low    | 3      | namesilo                      |
-| ain.cx    | available | $18.99    | $18.99        | low            | low    | 3      | namesilo                      |
-| boost.cx  | resell    | $26.98    | —             | high           | low    | 5      | CentralNic Ltd                |
-| boat.cx   | premium   | $18.99    | $18.99        | high           | low    | 4      | namesilo                      |
-| clv.cx    | available | $18.99    | $18.99        | low            | low    | 3      | namesilo                      |
-| air.cx    | resell    | —         | —             | high           | medium | 3      | CentralNic Ltd                |
-| tire.cx   | premium   | $18.99    | $18.99        | high           | low    | 4      | namesilo                      |
-| coy.cx    | available | $18.99    | $18.99        | medium         | low    | 3      | namesilo                      |
-| ask.cx    | resell    | —         | —             | high           | medium | 3      | West263 International Limited |
-| wool.cx   | premium   | $18.99    | $18.99        | medium         | low    | 4      | namesilo                      |
-| ixl.cx    | available | $18.99    | $18.99        | low            | low    | 3      | namesilo                      |
-| hit.cx    | resell    | —         | —             | high           | low    | 3      | CentralNic Ltd                |
-| gates.cx  | premium   | $18.99    | $18.99        | high           | low    | 5      | namesilo                      |
-| leg.cx    | available | $18.99    | $18.99        | high           | low    | 3      | namesilo                      |
-| led.cx    | resell    | —         | —             | high           | low    | 3      | West263 International Limited |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| ago.cx   | available | $18.99    | $18.99        | medium         | low    | 3      | namesilo                      |
+| load.cx  | resell    | $26.98    | —             | high           | low    | 4      | CentralNic Ltd                |
+| bce.cx   | premium   | $18.99    | $18.99        | medium         | low    | 3      | namesilo                      |
+| ain.cx   | available | $18.99    | $18.99        | low            | low    | 3      | namesilo                      |
+| boost.cx | resell    | $26.98    | —             | high           | low    | 5      | CentralNic Ltd                |
+| boat.cx  | premium   | $18.99    | $18.99        | high           | low    | 4      | namesilo                      |
+| clv.cx   | available | $18.99    | $18.99        | low            | low    | 3      | namesilo                      |
+| air.cx   | resell    | —         | —             | high           | medium | 3      | CentralNic Ltd                |
+| tire.cx  | premium   | $18.99    | $18.99        | high           | low    | 4      | namesilo                      |
+| coy.cx   | available | $18.99    | $18.99        | medium         | low    | 3      | namesilo                      |
+| ask.cx   | resell    | —         | —             | high           | medium | 3      | West263 International Limited |
+| wool.cx  | premium   | $18.99    | $18.99        | medium         | low    | 4      | namesilo                      |
+| ixl.cx   | available | $18.99    | $18.99        | low            | low    | 3      | namesilo                      |
+| hit.cx   | resell    | —         | —             | high           | low    | 3      | CentralNic Ltd                |
+| gates.cx | premium   | $18.99    | $18.99        | high           | low    | 5      | namesilo                      |
+| leg.cx   | available | $18.99    | $18.99        | high           | low    | 3      | namesilo                      |
+| led.cx   | resell    | —         | —             | high           | low    | 3      | West263 International Limited |
+| wagon.cx | premium   | $18.99    | $18.99        | medium         | low    | 5      | namesilo                      |
+| lip.cx   | available | $18.99    | $18.99        | high           | low    | 3      | namesilo                      |
+| lot.cx   | resell    | —         | —             | medium         | low    | 3      | CentralNic Ltd                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CX One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CX One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
