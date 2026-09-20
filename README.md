@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cx one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,614 domains · **Median ask:** $21.16 · **High-demand under $2,500:** 43
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/cx`
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | boost.cx | resell    | $26.98    | —             | high           | low    | 5      | CentralNic Ltd                |
 | boat.cx  | premium   | $18.99    | $18.99        | high           | low    | 4      | namesilo                      |
 | clv.cx   | available | $18.99    | $18.99        | low            | low    | 3      | namesilo                      |
-| air.cx   | resell    | —         | —             | high           | medium | 3      | CentralNic Ltd                |
+| air.cx   | resell    | —         | —             | medium         | low    | 3      | CentralNic Ltd                |
 | tire.cx  | premium   | $18.99    | $18.99        | high           | low    | 4      | namesilo                      |
 | coy.cx   | available | $18.99    | $18.99        | medium         | low    | 3      | namesilo                      |
 | ask.cx   | resell    | —         | —             | high           | medium | 3      | West263 International Limited |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CX One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CX One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
